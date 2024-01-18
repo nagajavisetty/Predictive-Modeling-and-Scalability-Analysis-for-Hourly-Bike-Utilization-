@@ -6,7 +6,7 @@ This project involves exploratory data analysis (EDA) and the creation of a pred
 
 ## Requirements
 
-- Python 3.x
+- Python 3.11
 - Required Python packages listed in `requirements.txt`
 
 ## Installation
